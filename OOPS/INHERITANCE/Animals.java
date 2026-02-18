@@ -1,3 +1,4 @@
+package INHERITANCE;
 public class Animals {
 
     public void sound(){
